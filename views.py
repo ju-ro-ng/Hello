@@ -13,7 +13,8 @@ from .models import *
 from .utils import .
 <!--123-->
 
-<!--6-->
+<!-- 6-->
+<!-- 1->
 class WomenHome(DataMixin, ListView): 
     model = Women
     template_name = 'women/index.html'
