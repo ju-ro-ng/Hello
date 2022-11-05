@@ -15,6 +15,7 @@ from .utils import .
 
 <!-- 6-->
 <!-- 1->
+<!-- 2->
 class WomenHome(DataMixin, ListView): 
     model = Women
     template_name = 'women/index.html'
